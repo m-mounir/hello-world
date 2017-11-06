@@ -1,2 +1,2 @@
 # hello-world
-it is a test project
+it is a trial project
